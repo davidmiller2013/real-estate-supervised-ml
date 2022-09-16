@@ -1,9 +1,9 @@
 <h1 align='center'>House Prices Advanced Regression Techniques</h1>
 
-The work performed here is based on data from the Kaggle competition below:
+The work performed here is based on data from the Kaggle competition below:  
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
-## Table of Contents
+<!-- ## Table of Contents -->
 <!-- <details open>
 <summary>Show/Hide</summary>
 <br>
@@ -31,11 +31,11 @@ Developing a data-driven / model-based approach can potentially:
 Zillow is an online real estate marketplace company. Zillow is famous for using state of the art statistical and machine learning models to produce Zestimates (their trademarked valuation model).
 
 To calculate a Zestimate, Zillow uses a sophisticated neural network-based model that incorporates data from the following sources:
-    - County and tax assessor records and direct feeds from hundreds of multiple listing services and brokerages
-    - Home characteristics including square footage, location or the number of bathrooms.
-    - On-market data such as listing price, description, comparable homes in the area and days on the market
-    - Off-market data — tax assessments, prior sales and other publicly available records
-    - Market trends, including seasonal changes in demand
+    - County and tax assessor records and direct feeds from hundreds of multiple listing services and brokerages  
+    - Home characteristics including square footage, location or the number of bathrooms  
+    - On-market data such as listing price, description, comparable homes in the area and days on the market  
+    - Off-market data — tax assessments, prior sales and other publicly available records  
+    - Market trends, including seasonal changes in demand  
 
 https://www.zillow.com/research/zestimate-forecast-methodology/
 
@@ -43,14 +43,14 @@ https://www.zillow.com/research/zestimate-forecast-methodology/
 
 Opendoor is an online real estate marketplace company. According to an article written by the company, there are * primary factors that influence home value:
 
-Neighborhood comps
-Location
-Home size and usable space
-Age and condition
-Upgrades and updates
-The local market
-Economic indicators
-Interest rates
+Neighborhood comps  
+Location  
+Home size and usable space  
+Age and condition  
+Upgrades and updates  
+The local market  
+Economic indicators  
+Interest rates  
 
 https://www.opendoor.com/w/blog/factors-that-influence-home-value
 
