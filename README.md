@@ -4,15 +4,14 @@ The work performed here is based on data from the Kaggle competition below:
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 ## Table of Contents
-<details open>
+<!-- <details open>
 <summary>Show/Hide</summary>
 <br>
-
 1. [ Business Problem ](#Business_Problem)
 2. [ Background Research ](#Background_Research)
 3. [ Inference Problem ](#Inference_Problem)
 </details>
-
+ -->
 
 ### Business Problem
 
