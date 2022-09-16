@@ -33,11 +33,12 @@ Zillow is an online real estate marketplace company.
 Zillow is famous for using state of the art statistical and machine learning models to produce Zestimates (their trademarked valuation model).  
 
 To calculate a Zestimate, Zillow uses a sophisticated neural network-based model that incorporates data from the following sources:  
-    - County and tax assessor records and direct feeds from hundreds of multiple listing services and brokerages  
-    - Home characteristics including square footage, location or the number of bathrooms  
-    - On-market data such as listing price, description, comparable homes in the area and days on the market  
-    - Off-market data — tax assessments, prior sales and other publicly available records  
-    - Market trends, including seasonal changes in demand  
+  - County and tax assessor records
+  - Direct feeds from listing services and brokerages  
+  - Home characteristics
+  - On-market data
+  - Off-market data
+  - Market trends
 
 https://www.zillow.com/research/zestimate-forecast-methodology/
 
