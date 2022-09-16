@@ -16,12 +16,12 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 ### Business Problem
 
 From the perspective of an online real estate market company, there are two challenges:  
-    - Accurately assess home values by neighborhood
-    - Determine importance of various attributes in determining that value
+  - Accurately assess home values by neighborhood  
+  - Determine importance of various attributes in determining that value  
 
 Developing a data-driven / model-based approach can potentially:  
-    - Provide more precision in valuation methodology  
-    - Assess what factors drive the overall value of a home  
+  - Provide more precision in valuation methodology  
+  - Assess what factors drive the overall value of a home  
 
 
 ### Background Research
@@ -49,8 +49,8 @@ Opendoor is an online real estate marketplace company. According to an article w
   - Interest rates  
   - The local market  
   - Age and condition  
-  - Neighborhood comps  
   - Economic indicators  
+  - Neighborhood comps  
   - Upgrades and updates  
   - Home size and usable space  
 
