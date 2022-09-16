@@ -16,8 +16,8 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 ### Business Problem
 
 From the perspective of an online real estate market company, there are two challenges:  
-    - Assess the appropriate value for homes in certain neighborhoods/markets  
-    - Weigh the importance of various attributes to potential home buyers  
+    - Accurately assess home values by neighborhood
+    - Determine importance of various attributes in determining that value
 
 Developing a data-driven / model-based approach can potentially:  
     - Provide more precision in valuation methodology  
@@ -33,27 +33,26 @@ Zillow is an online real estate marketplace company.
 Zillow is famous for using state of the art statistical and machine learning models to produce Zestimates (their trademarked valuation model).  
 
 To calculate a Zestimate, Zillow uses a sophisticated neural network-based model that incorporates data from the following sources:  
-  - County and tax assessor records
-  - Direct feeds from listing services and brokerages  
-  - Home characteristics
+  - Market trends
   - On-market data
   - Off-market data
-  - Market trends
+  - Home characteristics
+  - County and tax assessor records
+  - Direct feeds from listing services and brokerages  
 
 https://www.zillow.com/research/zestimate-forecast-methodology/
 
 **Opendoor**
 
 Opendoor is an online real estate marketplace company. According to an article written by the company, there are * primary factors that influence home value:  
-
-- Neighborhood comps  
-- Location  
-- Home size and usable space  
-- Age and condition  
-- Upgrades and updates  
-- The local market  
-- Economic indicators  
-- Interest rates  
+  - Location  
+  - Interest rates  
+  - The local market  
+  - Age and condition  
+  - Neighborhood comps  
+  - Economic indicators  
+  - Upgrades and updates  
+  - Home size and usable space  
 
 https://www.opendoor.com/w/blog/factors-that-influence-home-value
 
